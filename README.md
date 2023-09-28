@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 👋 Hi! I'm Navneet Srivastava, a passionate software developer with a love for all things code. My expertise lies in Java, Spring Boot, and web development technologies. I enjoy crafting efficient solutions to complex problems and staying up-to-date with the latest trends in the tech world.<br><br>🌱 I'm constantly learning and expanding my skill set. I'm excited about open source projects and collaborating with fellow developers to create impactful software.<br><br>📫 Feel free to reach out to me at navneetsrivastava52@gmail.com to discuss opportunities, projects, or just to say hello! Let's connect and code together.<br>
 
-
+https://navneet3009.github.io/
 - 👨‍💻My portfolio **https://navneet3009.github.io/**
 
 ## 🌐 Socials:
