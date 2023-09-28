@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navneet-srivastava-5b38b924b) 
-<a href="https://navneet3009.github.io" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=l6Z905T70SzX&format=png" alt="Navneet Srivastava" height="30" width="40" /></a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://navneet3009.github.io) 
 
